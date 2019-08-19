@@ -17,7 +17,7 @@
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
           <a class="dropdown-item" href="loichaomung.php">Lời Chào Mừng</a>
           <a class="dropdown-item" href="gioithieu.php">Giới Thiệu</a>
-          <a class="dropdown-item" href="#">Hợp Tác Và liên kết</a>
+          <a class="dropdown-item" href="hoptaclienket.php">Hợp Tác Và liên kết</a>
         </div>
       </li><li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -58,29 +58,24 @@
           Tin Tức
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="#">Sự Kiện</a>
-          <a class="dropdown-item" href="#">CSE Trên Báo</a>>
+          <a class="dropdown-item" href="sukien.php">Sự Kiện</a>
+          <a class="dropdown-item" href="#">CSE Trên Báo</a>
         </div>
       </li><li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           Sinh Viên
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="#">Tài Liệu Sinh Viên</a>
+          <a class="dropdown-item" href="tailieumonhoc.php">Tài Liệu Sinh Viên</a>
           <a class="dropdown-item" href="#">Tổ Tư Vấn Học Tập</a>
           <a class="dropdown-item" href="#">Biểu Mẫu ĐATN</a>
           <a class="dropdown-item" href="#">Luận Văn Tốt Nghiệp</a>
 
         </div>
-      </li><li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+      </li><li class="nav-item ">
+        <a class="nav-link " href="login.php" id="navbarDropdown" role="button" >
           Đăng Nhập
         </a>
-        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-        <a class="dropdown-item" href="#">Thông TIn</a>
-          <a class="dropdown-item" href="#">Đổi Mật Khẩu</a>
-          <a class="dropdown-item" href="#">Đăng Xuất</a>
-        </div>
       </li>
     </ul>
   </div>
